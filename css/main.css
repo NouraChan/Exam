@@ -1,0 +1,9 @@
+#img{
+    position: absolute;
+    cursor: none;
+    width: 50px;
+}
+
+body{
+    cursor: none;
+}
